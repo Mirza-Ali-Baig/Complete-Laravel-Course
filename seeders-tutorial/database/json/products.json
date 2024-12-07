@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Product 1",
+        "category": "Electronics",
+        "price": 299,
+        "description": "High-quality electronic device with the latest features.",
+        "image": "product1.jpg"
+    },
+    {
+        "name": "Product 2",
+        "category": "Clothing",
+        "price": 49,
+        "description": "Comfortable and stylish clothing for everyday wear.",
+        "image": "product2.jpg"
+    },
+    {
+        "name": "Product 3",
+        "category": "Home Appliances",
+        "price": 89,
+        "description": "Essential home appliance for modern living.",
+        "image": "product3.jpg"
+    },
+    {
+        "name": "Product 4",
+        "category": "Sports",
+        "price": 120,
+        "description": "Durable sports equipment for outdoor activities.",
+        "image": "product4.jpg"
+    },
+    {
+        "name": "Product 5",
+        "category": "Books",
+        "price": 15,
+        "description": "A bestseller novel by a renowned author.",
+        "image": "product5.jpg"
+    },
+    {
+        "name": "Product 6",
+        "category": "Toys",
+        "price": 25,
+        "description": "Fun and educational toy for children.",
+        "image": "product6.jpg"
+    },
+    {
+        "name": "Product 7",
+        "category": "Kitchen",
+        "price": 60,
+        "description": "Useful kitchen gadget for all your cooking needs.",
+        "image": "product7.jpg"
+    },
+    {
+        "name": "Product 8",
+        "category": "Beauty",
+        "price": 45,
+        "description": "Premium skincare product for glowing skin.",
+        "image": "product8.jpg"
+    },
+    {
+        "name": "Product 9",
+        "category": "Furniture",
+        "price": 250,
+        "description": "Elegant furniture piece for your living room.",
+        "image": "product9.jpg"
+    },
+    {
+        "name": "Product 10",
+        "category": "Automotive",
+        "price": 150,
+        "description": "Essential accessory for car maintenance.",
+        "image": "product10.jpg"
+    },
+    {
+        "name": "Product 11",
+        "category": "Electronics",
+        "price": 399,
+        "description": "Latest model of electronic gadget with advanced features.",
+        "image": "product11.jpg"
+    },
+    {
+        "name": "Product 12",
+        "category": "Clothing",
+        "price": 79,
+        "description": "Stylish outfit for formal occasions.",
+        "image": "product12.jpg"
+    },
+    {
+        "name": "Product 13",
+        "category": "Home Appliances",
+        "price": 129,
+        "description": "High-performance appliance for home use.",
+        "image": "product13.jpg"
+    },
+    {
+        "name": "Product 14",
+        "category": "Sports",
+        "price": 95,
+        "description": "Reliable sports gear for fitness enthusiasts.",
+        "image": "product14.jpg"
+    },
+    {
+        "name": "Product 15",
+        "category": "Books",
+        "price": 20,
+        "description": "Informative book on a popular topic.",
+        "image": "product15.jpg"
+    },
+    {
+        "name": "Product 16",
+        "category": "Toys",
+        "price": 30,
+        "description": "Interactive toy that encourages learning.",
+        "image": "product16.jpg"
+    },
+    {
+        "name": "Product 17",
+        "category": "Kitchen",
+        "price": 55,
+        "description": "Innovative kitchen tool to simplify cooking.",
+        "image": "product17.jpg"
+    },
+    {
+        "name": "Product 18",
+        "category": "Beauty",
+        "price": 35,
+        "description": "Effective beauty product for daily use.",
+        "image": "product18.jpg"
+    },
+    {
+        "name": "Product 19",
+        "category": "Furniture",
+        "price": 320,
+        "description": "Modern furniture piece to enhance your home decor.",
+        "image": "product19.jpg"
+    },
+    {
+        "name": "Product 20",
+        "category": "Automotive",
+        "price": 180,
+        "description": "High-quality automotive part for better performance.",
+        "image": "product20.jpg"
+    },
+    {
+        "name": "Product 21",
+        "category": "Electronics",
+        "price": 499,
+        "description": "Advanced electronic device with state-of-the-art technology.",
+        "image": "product21.jpg"
+    },
+    {
+        "name": "Product 22",
+        "category": "Clothing",
+        "price": 89,
+        "description": "Comfortable and fashionable attire for all seasons.",
+        "image": "product22.jpg"
+    },
+    {
+        "name": "Product 23",
+        "category": "Home Appliances",
+        "price": 99,
+        "description": "Compact and efficient appliance for home use.",
+        "image": "product23.jpg"
+    },
+    {
+        "name": "Product 24",
+        "category": "Sports",
+        "price": 110,
+        "description": "Durable sports accessory for intense activities.",
+        "image": "product24.jpg"
+    },
+    {
+        "name": "Product 25",
+        "category": "Books",
+        "price": 25,
+        "description": "A captivating novel by a best-selling author.",
+        "image": "product25.jpg"
+    },
+    {
+        "name": "Product 26",
+        "category": "Toys",
+        "price": 28,
+        "description": "Fun and engaging toy for children of all ages.",
+        "image": "product26.jpg"
+    },
+    {
+        "name": "Product 27",
+        "category": "Kitchen",
+        "price": 70,
+        "description": "Essential kitchen item for everyday cooking.",
+        "image": "product27.jpg"
+    },
+    {
+        "name": "Product 28",
+        "category": "Beauty",
+        "price": 40,
+        "description": "High-quality beauty product for radiant skin.",
+        "image": "product28.jpg"
+    },
+    {
+        "name": "Product 29",
+        "category": "Furniture",
+        "price": 280,
+        "description": "Stylish furniture to complement your interior design.",
+        "image": "product29.jpg"
+    },
+    {
+        "name": "Product 30",
+        "category": "Automotive",
+        "price": 200,
+        "description": "Essential automotive accessory for enhanced driving experience.",
+        "image": "product30.jpg"
+    }
+]
